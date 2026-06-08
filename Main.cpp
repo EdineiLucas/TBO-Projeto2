@@ -93,6 +93,5 @@ int main (){
     buscaKMP(textocompleto, palavraBusca);
 
 
-    cout << "Rodou";
     return 0;
 }
